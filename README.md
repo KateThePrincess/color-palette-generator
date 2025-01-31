@@ -1,6 +1,6 @@
 # Color Palette Generator
 
-Color Palette Generator is a web application built with **JavaScript** and **CSS** that allows users to generate color palettes easily. The tool lets you explore a variety of colors for web design, graphic design, or any creative project, making it perfect for designers and developers looking to find the right colors quickly.
+Color Palette Generator is a web application built with **React** and **CSS** that allows users to generate color palettes easily. The tool lets you explore a variety of colors for web design, graphic design, or any creative project, making it perfect for designers and developers looking to find the right colors quickly.
 
 ## 🚀 Features
 
