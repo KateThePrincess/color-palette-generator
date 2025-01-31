@@ -13,7 +13,7 @@ Color Palette Generator is a web application built with **JavaScript** and **CSS
 ## 🌐 Live Demo
 
 Check out the live version of the app here:  
-[Color Palette Generator Live Demo]([https://your-production-url.com](https://color-palette-generator-portfoliokr.vercel.app/)
+[Color Palette Generator Live Demo](https://color-palette-generator-portfoliokr.vercel.app/)
 
 ## 🛠️ Tech Stack
 
